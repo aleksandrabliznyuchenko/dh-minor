@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/cafe-society/cafe-society.txt	0.15480565040888436	0.7127647262474304	0.13242962334368535

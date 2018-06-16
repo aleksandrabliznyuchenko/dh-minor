@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/deconstructing-harry/deconstructing-harry.txt	0.1355746111807996	0.13793211961150548	0.7264932692076949

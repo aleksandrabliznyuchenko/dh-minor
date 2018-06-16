@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/anything-else/anything-else.txt	0.7184176799277538	0.1569057665743779	0.12467655349786834

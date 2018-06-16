@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/every-thing-you-always-wanted-to-know-about-sex-but-were-afraid-to-ask/every-thing-you-always-wanted-to-know-about-sex-but-were-afraid-to-ask.txt	0.569161106409499	0.2148921608770038	0.21594673271349724

@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/hannah-and-her-sisters/hannah-and-her-sisters.txt	0.7304376277720842	0.12442975293247117	0.14513261929544444

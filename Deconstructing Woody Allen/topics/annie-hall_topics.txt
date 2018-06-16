@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/annie-hall/annie-hall.txt	0.1232989194398852	0.1574538897990267	0.7192471907610881

@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/hollywood-ending/hollywood-ending.txt	0.13128022733597333	0.7289733161122643	0.13974645655176224

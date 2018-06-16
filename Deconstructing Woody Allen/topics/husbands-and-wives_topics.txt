@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/husbands-and-wives/husbands-and-wives.txt	0.6953375018961592	0.15493069699757206	0.14973180110626877

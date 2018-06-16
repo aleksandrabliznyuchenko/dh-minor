@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/love-and-death/love-and-death.txt	0.15229371092577842	0.11394477539734722	0.7337615136768744

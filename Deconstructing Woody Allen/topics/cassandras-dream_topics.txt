@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/cassandras-dream/cassandras-dream.txt	0.12686422014713408	0.748463913978694	0.12467186587417182

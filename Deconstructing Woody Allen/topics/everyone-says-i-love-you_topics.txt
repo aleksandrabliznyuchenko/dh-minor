@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/everyone-says-i-love-you/everyone-says-i-love-you.txt	0.7408999971766345	0.12702440388203778	0.13207559894132787

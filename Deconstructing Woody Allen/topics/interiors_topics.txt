@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/interiors/interiors.txt	0.1466247435908024	0.6744882004645936	0.17888705594460402

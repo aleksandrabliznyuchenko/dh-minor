@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/irrational-man/irrational-man.txt	0.1528851896149865	0.15418605908379798	0.6929287513012155

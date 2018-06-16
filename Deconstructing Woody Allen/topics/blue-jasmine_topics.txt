@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/blue-jasmine/blue-jasmine.txt	0.7148429046850494	0.1501832014960345	0.13497389381891609

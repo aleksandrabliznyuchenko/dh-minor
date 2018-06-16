@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/bullets-over-broadway/bullets-over-broadway.txt	0.717768326348146	0.12485490899383271	0.1573767646580212

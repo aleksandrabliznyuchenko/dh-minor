@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/manhattan-murder-mystery/manhattan-murder-mystery.txt	0.6620796070478461	0.16590900420035243	0.17201138875180147

@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/another-woman/another-woman.txt	0.6784558023731884	0.12907713479867186	0.19246706282813983

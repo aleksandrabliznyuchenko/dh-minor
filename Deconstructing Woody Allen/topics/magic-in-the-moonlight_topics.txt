@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/magic-in-the-moonlight/magic-in-the-moonlight.txt	0.14160119934324988	0.7259007035734619	0.13249809708328814
