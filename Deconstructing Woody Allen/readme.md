@@ -6,6 +6,8 @@ rating_per_topics_maker.py --> it counts how many topics out of our 5 main theme
 
 frequent_words_counter.py --> it makes a frequency dictionary of words out of set of reviews on each films (we ignore stopwords!)
 
+stopwords_definer.py --> we have to include names of films' characters in stopword list to make our results more clear. This programme makes a frequncy dictionary out of all the words starting with capital letters (in all the screenplays) and print those whose frequency is more than 10 (to ignore most words that mark only the beginning of the sentence, not name or address). We have also included in stopwords list shortenings like 'he'll', 'that's', 'does'/'doesn't' etc.
+
 en.txt --> file with stopwords used for mallet and frequency dictionary
 
 xlsx-table --> frequency dictionary in Excel table
