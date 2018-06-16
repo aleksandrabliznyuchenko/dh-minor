@@ -4,11 +4,13 @@ woody_allen_screenplays.py and woody_allen_reviews.py --> we get screenplays fro
 
 rating_per_topics_maker.py --> it counts how many topics out of our 5 main themes appear in the topics of each screenplay
 
-frequent_words_counter.py --> it makes a frequent dictionary of words out of set of reviews on each films (we ignore stopwords!)
+frequent_words_counter.py --> it makes a frequency dictionary of words out of set of reviews on each films (we ignore stopwords!)
 
-xlsx-table --> frequent dictionary in Excel table
+en.txt --> file with stopwords used for mallet and frequency dictionary
 
-clusterization.png --> rezults of stylo.cluster analysis
+xlsx-table --> frequency dictionary in Excel table
+
+clusterization.png --> rezults of stylo cluster analysis of screenplays
 
 Deconstructing Woody.pptx --> our Power-Point presentation
 
@@ -19,6 +21,6 @@ screenplays --> all our analysed screenplays
 
 reviews --> all our analysed reviews
 
-allen_primary_topics_3 --> results of mallet analysis of screenplays (number of topics = 3)
+keys, mallet, topics --> results of mallet analysis of screenplays (number of topics = 3)
 
-main_topics.txt --> 5 themes made with mallet out of all the topics of all Allen's screenplays
+main_topics.txt --> 5 themes made with mallet out of all topics of all Allen's screenplays
