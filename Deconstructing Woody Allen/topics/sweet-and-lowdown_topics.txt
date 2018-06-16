@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/sweet-and-lowdown/sweet-and-lowdown.txt	0.13147359850810103	0.6732184346076782	0.1953079668842209

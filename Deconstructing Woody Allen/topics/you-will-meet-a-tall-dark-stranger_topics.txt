@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/you-will-meet-a-tall-dark-stranger/you-will-meet-a-tall-dark-stranger.txt	0.1250976528374354	0.7407788791263599	0.13412346803620467

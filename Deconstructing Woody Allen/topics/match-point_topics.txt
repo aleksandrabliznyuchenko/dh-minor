@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/match-point/match-point.txt	0.15217110612803092	0.15349744918062241	0.6943314446913467

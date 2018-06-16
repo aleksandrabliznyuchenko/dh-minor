@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/the-curse-of-the-jade-scorpion/the-curse-of-the-jade-scorpion.txt	0.10376932826628907	0.7266416525190277	0.1695890192146834

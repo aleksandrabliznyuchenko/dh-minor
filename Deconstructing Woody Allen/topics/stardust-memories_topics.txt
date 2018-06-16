@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/stardust-memories/stardust-memories.txt	0.15315234479136636	0.7155523091278158	0.1312953460808179

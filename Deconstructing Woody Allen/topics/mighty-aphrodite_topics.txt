@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/mighty-aphrodite/mighty-aphrodite.txt	0.1159493504063097	0.15103420447973534	0.7330164451139549

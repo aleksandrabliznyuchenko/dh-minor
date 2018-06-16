@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/take-the-money-and-run/take-the-money-and-run.txt	0.6504935285962624	0.1680082024822289	0.18149826892150872

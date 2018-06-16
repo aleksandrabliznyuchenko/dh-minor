@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/midnight-in-paris/midnight-in-paris.txt	0.7165168096535619	0.1184666505837781	0.16501653976265998

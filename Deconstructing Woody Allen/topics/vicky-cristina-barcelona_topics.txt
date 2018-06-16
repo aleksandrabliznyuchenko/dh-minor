@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/vicky-cristina-barcelona/vicky-cristina-barcelona.txt	0.14173398211824778	0.72634336220271	0.13192265567904224

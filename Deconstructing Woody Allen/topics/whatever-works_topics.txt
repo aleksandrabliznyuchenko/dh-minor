@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/whatever-works/whatever-works.txt	0.13797357824132125	0.15104643651792912	0.7109799852407498

@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/wonder-wheel/wonder-wheel.txt	0.1469224816051345	0.11805580568257917	0.7350217127122862

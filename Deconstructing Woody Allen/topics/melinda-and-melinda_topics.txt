@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/melinda-and-melinda/melinda-and-melinda.txt	0.16037925475080247	0.11937853733202565	0.7202422079171719

@@ -1,0 +1,1 @@
+0	file:/C:/mallet/our-data/to-rome-with-love/to-rome-with-love.txt	0.7089568413723845	0.1603982596194613	0.13064489900815432
